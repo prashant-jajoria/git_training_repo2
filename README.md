@@ -3,8 +3,4 @@ This is the 2nd repository for Git training
 
 This is something awesome
 
-Now editing on update-readme branch
-
-Updated locally
-
-More and more changes locally
+Updates made on master on Github before rebase
